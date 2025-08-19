@@ -1,0 +1,16 @@
+{
+  "name": "linkedin-automation-bot",
+  "version": "1.0.0",
+  "description": "Automated LinkedIn messaging bot using Playwright",
+  "main": "linkedin_bot.js",
+  "scripts": {
+    "start": "node linkedin_bot.js",
+    "install-playwright": "npx playwright install"
+  },
+  "dependencies": {
+    "playwright": "^1.40.0"
+  },
+  "keywords": ["linkedin", "automation", "playwright", "messaging"],
+  "author": "",
+  "license": "MIT"
+}
