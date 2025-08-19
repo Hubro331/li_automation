@@ -26,7 +26,7 @@ npx playwright install
 
 3. Run the bot:
 ```bash
-npm start
+node linkedin_bot.js
 ```
 
 ## Files Structure
